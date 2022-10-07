@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proration-tool/static/css/main.b6e051f0.css",
+    "main.js": "/proration-tool/static/js/main.bd64f062.js",
+    "static/js/787.30ce6eef.chunk.js": "/proration-tool/static/js/787.30ce6eef.chunk.js",
+    "index.html": "/proration-tool/index.html",
+    "main.b6e051f0.css.map": "/proration-tool/static/css/main.b6e051f0.css.map",
+    "main.bd64f062.js.map": "/proration-tool/static/js/main.bd64f062.js.map",
+    "787.30ce6eef.chunk.js.map": "/proration-tool/static/js/787.30ce6eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e051f0.css",
+    "static/js/main.bd64f062.js"
+  ]
+}
