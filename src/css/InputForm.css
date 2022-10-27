@@ -1,0 +1,95 @@
+#input-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#date-input {
+    margin-top: 2vh;
+    display: flex;
+}
+
+#input-form-div {
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#start-date-section {
+    float: left;
+    width: 40vw;
+}
+
+#end-date-section {
+    float: right;
+    width: 40vw;
+}
+
+.time-picker {
+    height: fit-content;
+    width: 100px;
+}
+
+#time-input-section {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    /* height: 1em; */
+}
+
+#number-input-section {
+    margin-top: 1vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.am-pm {
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.date-picker {
+    width: fit-content;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
+
+.date-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-field {
+    width: 8vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    width: fit-content;
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#run-button {
+    width: fit-content;
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#x-icon {
+    /* visibility: hidden; */
+}
+
+#x-icon:hover {
+    visibility: visible;
+}
+
+#coupon-rate-section {
+    display: flex;
+    flex-direction: column;
+}

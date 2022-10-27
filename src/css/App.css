@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  overflow: hidden;
+}
+
+#output-section {
+  margin-top: 2vh;
+}
