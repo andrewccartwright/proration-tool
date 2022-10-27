@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/proration-tool/static/css/main.ee88a708.css",
-    "main.js": "/proration-tool/static/js/main.24113b8c.js",
+    "main.js": "/proration-tool/static/js/main.39202817.js",
     "static/js/787.30ce6eef.chunk.js": "/proration-tool/static/js/787.30ce6eef.chunk.js",
     "index.html": "/proration-tool/index.html",
     "main.ee88a708.css.map": "/proration-tool/static/css/main.ee88a708.css.map",
-    "main.24113b8c.js.map": "/proration-tool/static/js/main.24113b8c.js.map",
+    "main.39202817.js.map": "/proration-tool/static/js/main.39202817.js.map",
     "787.30ce6eef.chunk.js.map": "/proration-tool/static/js/787.30ce6eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee88a708.css",
-    "static/js/main.24113b8c.js"
+    "static/js/main.39202817.js"
   ]
 }
